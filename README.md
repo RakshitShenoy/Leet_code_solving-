@@ -5,3 +5,4 @@
 ### Started Solving on 05/10/2026
 1. "856. Score of Parentheses"
 2. "921. Minimum Add to Make Parentheses Valid"
+3. "1021. Remove Outermost Parentheses"
